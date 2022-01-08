@@ -1,0 +1,49 @@
+body {
+    background-color: darkgray;
+}
+
+.chat {
+    display: grid;
+    grid-template-columns: 1fr 9fr;
+    background-color: white;
+    width: 400px;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.chat img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    align-self: auto;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.message {
+    color: whitesmoke;
+    display: grid;
+    grid-template-columns: 15fr 1fr;
+    grid-template-areas: "n t" "m t";
+    background-color: gray;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+}
+
+.message .name {
+    color: black;
+    grid-area: n;
+    font-width: bold;
+}
+
+.message .message_content {
+    grid-area: m;
+}
+
+.message .time{
+    color: black;
+    grid-area: t;
+    align-self: end;
+}
