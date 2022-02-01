@@ -1,12 +1,20 @@
 .superInput {
-
+    background-color: red;
 }
 
 .errorInput {
-    border: 3px solid lime;
-    background: red;
+    border: 2px solid darkgray;
+    background: whitesmoke;
+    margin: 5px;
+
 }
 
 .error {
-    color: red;
+    color: black;
+    font-weight: bold;
+}
+
+.input:focus {
+    outline: none;
+    border: 5px solid;
 }

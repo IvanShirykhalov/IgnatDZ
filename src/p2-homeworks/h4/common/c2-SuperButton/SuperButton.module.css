@@ -1,7 +1,21 @@
-.default {
+@keyframes blink {
+    0%{
+        bottom: -130%
+    }
+    100%{
+        top: 130%;
+    }
+}
 
+.default {
+    background-color: lightgray;
+    border-radius: 10px;
+    outline: none;
 }
 
 .red {
-    background: red;
+    background: darkgray;
+    margin: 5px;
 }
+
+
