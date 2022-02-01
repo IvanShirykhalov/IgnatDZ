@@ -21,12 +21,13 @@ const GreetingContainer: React.FC<GreetingContainerPropsType> = ({users, addUser
     }
     const addUser = () => {
             if(!name.trim()){
-                return setError('Error!')
+                return setError('Name is required!')
             } else {
                 addUserCallback(name)
                 alert(`Hello ${name} !`)
             }
             setName('')
+            setError('')
          // need to fix
     }
 
