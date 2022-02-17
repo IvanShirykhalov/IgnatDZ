@@ -1,17 +1,17 @@
 import React from 'react'
 import {NavLink} from 'react-router-dom'
 import {PATH} from "./Routes";
+import s from './Header.module.css'
 
-function Header() {
+
+export function Header() {
     return (
-        <div>
-            <NavLink to={PATH.PRE_JUNIOR}>pre-junior</NavLink>
-            <NavLink to={PATH.JUNIOR}>junior</NavLink>
-            <NavLink to={PATH.PLUS_JUNIOR}>plus-junior</NavLink>
-
-
+        <div className={s.header}>
+            <NavLink to={PATH.PRE_JUNIOR} className={s.link}>pre-junior</NavLink>
+            <NavLink to={PATH.JUNIOR} className={s.link}>junior</NavLink>
+            <NavLink to={PATH.PLUS_JUNIOR} className={s.link}>junior+</NavLink>
+            <div className={s.block}/>
         </div>
     )
 }
 
-export default Header

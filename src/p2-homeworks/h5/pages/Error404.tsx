@@ -7,6 +7,7 @@ function Error404() {
             <div>Page not found!</div>
             <div>—ฅ/ᐠ.̫ .ᐟ\ฅ—</div>
         </div>
+
     )
 }
 
