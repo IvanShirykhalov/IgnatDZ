@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/IvanShirykhalov.github.io/IgnatDZ/static/css/main.02f6bd68.chunk.css",
-    "main.js": "/IvanShirykhalov.github.io/IgnatDZ/static/js/main.d1561a8a.chunk.js",
-    "main.js.map": "/IvanShirykhalov.github.io/IgnatDZ/static/js/main.d1561a8a.chunk.js.map",
+    "main.js": "/IvanShirykhalov.github.io/IgnatDZ/static/js/main.d5321602.chunk.js",
+    "main.js.map": "/IvanShirykhalov.github.io/IgnatDZ/static/js/main.d5321602.chunk.js.map",
     "runtime-main.js": "/IvanShirykhalov.github.io/IgnatDZ/static/js/runtime-main.11c743f6.js",
     "runtime-main.js.map": "/IvanShirykhalov.github.io/IgnatDZ/static/js/runtime-main.11c743f6.js.map",
-    "static/js/2.f16da07e.chunk.js": "/IvanShirykhalov.github.io/IgnatDZ/static/js/2.f16da07e.chunk.js",
-    "static/js/2.f16da07e.chunk.js.map": "/IvanShirykhalov.github.io/IgnatDZ/static/js/2.f16da07e.chunk.js.map",
+    "static/js/2.239e4e38.chunk.js": "/IvanShirykhalov.github.io/IgnatDZ/static/js/2.239e4e38.chunk.js",
+    "static/js/2.239e4e38.chunk.js.map": "/IvanShirykhalov.github.io/IgnatDZ/static/js/2.239e4e38.chunk.js.map",
     "index.html": "/IvanShirykhalov.github.io/IgnatDZ/index.html",
     "static/css/main.02f6bd68.chunk.css.map": "/IvanShirykhalov.github.io/IgnatDZ/static/css/main.02f6bd68.chunk.css.map",
-    "static/js/2.f16da07e.chunk.js.LICENSE.txt": "/IvanShirykhalov.github.io/IgnatDZ/static/js/2.f16da07e.chunk.js.LICENSE.txt"
+    "static/js/2.239e4e38.chunk.js.LICENSE.txt": "/IvanShirykhalov.github.io/IgnatDZ/static/js/2.239e4e38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.11c743f6.js",
-    "static/js/2.f16da07e.chunk.js",
+    "static/js/2.239e4e38.chunk.js",
     "static/css/main.02f6bd68.chunk.css",
-    "static/js/main.d1561a8a.chunk.js"
+    "static/js/main.d5321602.chunk.js"
   ]
 }
