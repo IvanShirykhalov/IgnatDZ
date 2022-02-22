@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "homepage": "https:/IvanShirykhalov.github.io/IgnatDZ",
+  "name": "IgnatDZ",
+  "homepage": "http:/IvanShirykhalov.github.io/IgnatDZ",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
